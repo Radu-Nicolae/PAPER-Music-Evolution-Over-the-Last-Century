@@ -3,7 +3,6 @@
 **Contents**
 - [Abstract](#abstract)
 - [Repository Structure](#repository-structure)
-- [Music Evolution Architecture](#music-evolution-architecture)
 - [Reproducibility Capsule](#reproducibility-capsule)
 - [Open Science](#open-science)
 - [License](#license)
@@ -21,15 +20,9 @@ In response to the industrial and technological advancement of the past century,
 ## Repository Structure
 
 - **Presentation (video recording)**: [YouTube Link](https://youtu.be/3emi_OeNHUA)
+- **Presentation (slides)**: `slides.pdf`
 - **Report**: `Exploring music evolution over the last century.pdf`
 - **Code**: `src/`
-
-Below is the outline of the assignment’s requirements:
-
-> Project Files  
-> - your presentation (10 to 15 minutes video recording)  
-> - your report (max. 4 pages)  
-> - your code  
 
 
 ---
@@ -41,7 +34,7 @@ Below is the outline of the assignment’s requirements:
   1. Clone this repository.
   2. Delete the folder `plots`, from `src/plots`
   3. Navigate to `src/data_wranggler.ipynb`
-  3. Run the notebook entirely.
+  4. Run the notebook entirely.
 
 ---
 
