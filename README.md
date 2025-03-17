@@ -44,6 +44,12 @@ We provide this project as open-source. All datasets originate from [Kaggle](htt
 
 ---
 
+## Authors
+Radu Nicolae, Leonid Ivanov, Ayush Khadka, Alara Karadeniz
+
+## Acknowledgements
+This research was conducted as part of the course [Data Wrangling 2024-2025 (XB_0014)](https://studiegids.vu.nl/en/courses/2024-2025/XB_0014#/), Vrije Universiteit Amsterda; many thanks to the teaching team and everybody involved.
+
 ## License
 
 This project is provided for academic and educational purposes. No additional license is declared.
